@@ -1,11 +1,11 @@
-## CryptoZombies.io courses progress tracking
+## CryptoZombies.io courses my progress tracking
 
-https://cryptozombies.io/en/course
+:free: https://cryptozombies.io/en/course 
 
 ### Solidity Path: Beginner to Intermediate Smart Contracts
 
 - [x] Making the Zombie Factory
-- [ ] Zombies Attack Their Victims
+- [ ] :arrow_forward: Zombies Attack Their Victims
 - [ ] Advanced Solidity Concepts
 - [ ] Zombie Battle System
 - [ ] ERC721 & Crypto-Collectibles
