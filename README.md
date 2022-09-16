@@ -5,8 +5,8 @@
 ### Solidity Path: Beginner to Intermediate Smart Contracts
 
 - [x] Making the Zombie Factory
-- [ ] :arrow_forward: Zombies Attack Their Victims
-- [ ] Advanced Solidity Concepts
+- [x] Zombies Attack Their Victims
+- [ ] :arrow_forward: Advanced Solidity Concepts
 - [ ] Zombie Battle System
 - [ ] ERC721 & Crypto-Collectibles
 - [ ] App Front-ends & Web3.js
